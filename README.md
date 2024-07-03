@@ -1,7 +1,5 @@
 # Proyecto Bash
 
-![Logo del Proyecto](png-clipart-bash-unix-shell-unix-shell-scalable-graphics-shell-angle-rectangle.png)
-
 Este proyecto contiene una serie de scripts Bash diseñados para automatizar tareas comunes y mejorar la productividad en la línea de comandos.
 
 ## Instalación
