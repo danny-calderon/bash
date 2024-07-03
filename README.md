@@ -8,7 +8,7 @@ Sigue estos pasos para clonar el repositorio y configurar el entorno:
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/usuario/proyecto-bash.git
+git clone https://github.com/danny-calderon/bash.git
 
 # Entra en el directorio del proyecto
 cd proyecto-bash
