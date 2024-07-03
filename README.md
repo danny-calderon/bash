@@ -1,19 +1,8 @@
 # Proyecto Bash
 
-![Logo del Proyecto](ruta/al/logo.png)
+![Logo del Proyecto](bash-logo.png)
 
 Este proyecto contiene una serie de scripts Bash diseñados para automatizar tareas comunes y mejorar la productividad en la línea de comandos.
-
-## Tabla de Contenidos
-
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Características](#características)
-- [Scripts Incluidos](#scripts-incluidos)
-- [Contribuir](#contribuir)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
-- [Agradecimientos](#agradecimientos)
 
 ## Instalación
 
